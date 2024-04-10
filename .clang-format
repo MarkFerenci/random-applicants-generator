@@ -1,0 +1,11 @@
+Language: Cpp
+BasedOnStyle: LLVM
+AlwaysBreakAfterReturnType: All
+BreakArrays: true
+BinPackArguments: false
+BinPackParameters: false
+ExperimentalAutoDetectBinPacking: false
+AllowAllParametersOfDeclarationOnNextLine: false
+AlignArrayOfStructures: Left
+IndentWidth: 2
+NamespaceIndentation: All
